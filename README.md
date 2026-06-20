@@ -2,14 +2,14 @@
 
 <p align="center">
   <b>AI & Robotics Engineer · NLP · Computer Vision · GenAI</b><br/>
-  Final-year B.E. @ Thapar )<br/>
+  Final-year B.E. @ Thapar <br/>
   
 </p>
 
 <p align="center">
   <a href="https://your-portfolio-url.com">Portfolio</a> ·
-  <a href="https://linkedin.com/in/your-linkedin">LinkedIn</a> ·
-  <a href="mailto:your@email.com">Email</a>
+  <a href="https://www.linkedin.com/in/aastha-mahajan-10a3212a8">LinkedIn</a> ·
+  <a href="aasthamahajan2005@gmail.com">Email</a>
 </p>
 
 ---
