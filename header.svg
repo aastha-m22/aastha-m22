@@ -1,0 +1,26 @@
+<svg viewBox="0 0 820 280" width="820" height="280" xmlns="http://www.w3.org/2000/svg" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace">
+  <rect x="2" y="2" width="816" height="276" rx="14" fill="#0d1117" stroke="#30363d" stroke-width="1.5"/>
+
+  <circle cx="34" cy="30" r="5" fill="#bc8cff">
+    <animate attributeName="opacity" values="1;0.25;1" dur="1.4s" repeatCount="indefinite"/>
+  </circle>
+  <text x="48" y="35" font-size="13" fill="#6e7681" letter-spacing="0.5">streaming</text>
+  <text x="410" y="35" text-anchor="middle" font-size="13" fill="#484f58" letter-spacing="1">aastha-m22 &#183; generate()</text>
+  <line x1="18" y1="52" x2="802" y2="52" stroke="#21262d" stroke-width="1"/>
+
+  <text x="34" y="92" font-size="18" fill="#6e7681">prompt &#9656; describe(aastha-m22)</text>
+
+  <text x="34" y="140" font-size="21" fill="#adbac7">
+    <tspan fill-opacity="0">an <animate attributeName="fill-opacity" to="1" dur="0.22s" begin="0.6s" fill="freeze"/></tspan><tspan fill="#d2a8ff" fill-opacity="0">ai <animate attributeName="fill-opacity" to="1" dur="0.22s" begin="0.76s" fill="freeze"/></tspan><tspan fill-opacity="0">/ <animate attributeName="fill-opacity" to="1" dur="0.22s" begin="0.92s" fill="freeze"/></tspan><tspan fill="#d2a8ff" fill-opacity="0">nlp <animate attributeName="fill-opacity" to="1" dur="0.22s" begin="1.08s" fill="freeze"/></tspan><tspan fill-opacity="0">engineer <animate attributeName="fill-opacity" to="1" dur="0.22s" begin="1.24s" fill="freeze"/></tspan><tspan fill-opacity="0">who<animate attributeName="fill-opacity" to="1" dur="0.22s" begin="1.40s" fill="freeze"/></tspan>
+  </text>
+
+  <text x="34" y="178" font-size="21" fill="#adbac7">
+    <tspan fill-opacity="0">builds <animate attributeName="fill-opacity" to="1" dur="0.22s" begin="1.60s" fill="freeze"/></tspan><tspan fill="#d2a8ff" fill-opacity="0">genai <animate attributeName="fill-opacity" to="1" dur="0.22s" begin="1.76s" fill="freeze"/></tspan><tspan fill-opacity="0">+ <animate attributeName="fill-opacity" to="1" dur="0.22s" begin="1.92s" fill="freeze"/></tspan><tspan fill="#d2a8ff" fill-opacity="0">llm <animate attributeName="fill-opacity" to="1" dur="0.22s" begin="2.08s" fill="freeze"/></tspan><tspan fill-opacity="0">systems <animate attributeName="fill-opacity" to="1" dur="0.22s" begin="2.24s" fill="freeze"/></tspan><tspan fill-opacity="0">that<animate attributeName="fill-opacity" to="1" dur="0.22s" begin="2.40s" fill="freeze"/></tspan>
+  </text>
+
+  <text x="34" y="216" font-size="21" fill="#adbac7">
+    <tspan fill-opacity="0">actually <animate attributeName="fill-opacity" to="1" dur="0.22s" begin="2.60s" fill="freeze"/></tspan><tspan fill-opacity="0">leave <animate attributeName="fill-opacity" to="1" dur="0.22s" begin="2.76s" fill="freeze"/></tspan><tspan fill-opacity="0">the <animate attributeName="fill-opacity" to="1" dur="0.22s" begin="2.92s" fill="freeze"/></tspan><tspan fill-opacity="0">notebook.<animate attributeName="fill-opacity" to="1" dur="0.22s" begin="3.08s" fill="freeze"/></tspan><tspan fill="#bc8cff" dx="6" fill-opacity="0">&#9614;<animate attributeName="fill-opacity" values="1;1;0;0" keyTimes="0;0.5;0.5;1" dur="1.05s" begin="3.4s" repeatCount="indefinite"/></tspan>
+  </text>
+
+  <text x="786" y="256" text-anchor="end" font-size="12" fill="#484f58">temp 0.7 &#183; top_p 0.9</text>
+</svg>
