@@ -21,7 +21,7 @@ I build with language models. I also write fiction — the one thing they still 
 </p>
 
 <details open>
-<summary>: <b>what i build</b></summary>
+<summary> <b>what i build</b></summary>
 
 - rag + agent systems — retrieval, eval, and the parts that quietly break in prod
 - llm fine-tuning — lora / qlora, for when a clever prompt stops being enough
@@ -31,11 +31,11 @@ I build with language models. I also write fiction — the one thing they still 
 </details>
 
 <details open>
-<summary>: <b>currently</b></summary>
+<summary><b>currently</b></summary>
 
 final-year robotics &amp; ai @ thapar. 
 
-nerding out lately on: llm evals, model serving at scale, and making pipelines reproducible enough that future-me doesn't curse past-me.
+
 
 </details>
 
