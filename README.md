@@ -1,66 +1,47 @@
-<h1 align="center">Hi, I'm Aastha 👋</h1>
-
 <p align="center">
-  <b>AI & Robotics Engineer · NLP · Computer Vision · GenAI</b><br/>
-  Final-year B.E. @ Thapar <br/>
-  
+  <img src="header.svg" width="100%" alt="aastha-m22"/>
 </p>
 
 <p align="center">
-  <a href="https://your-portfolio-url.com">Portfolio</a> ·
-  <a href="https://www.linkedin.com/in/aastha-mahajan-10a3212a8">LinkedIn</a> ·
-  <a href="aasthamahajan2005@gmail.com">Email</a>
+  <code>ai</code> · <code>nlp</code> · <code>genai</code> · <code>computer vision</code> · final-year @ thapar
 </p>
 
----
+I build with language models. I also write fiction — the one thing they still can't do for me.
 
-### About me
+<br>
 
-I build end-to-end AI systems — from raw data to deployed product. My work spans NLP, computer vision, machine learning and generative AI, with a strong focus on production quality: clean architecture, reproducible pipelines, and evaluatable outputs.
+### stack
 
-Currently deepening expertise in LLM fine-tuning (LoRA/QLoRA), RAG systems, and MLOps. Targeting ML/AI engineering roles at product-driven companies.
-
----
-
-### Featured projects
-
-| Project | What it does | Stack |
-|---|---|---|
-| [VisionOS Gesture Control](https://github.com/aastha-m22/VisionOS-Gesture-Control) | Real-time hand gesture computer control with SOLID architecture | MediaPipe · Python · Command Pattern |
-| [Mental Health NLP Analyzer](https://github.com/aastha-m22/mental-health-nlp-analyzer) | 7-model benchmark on Dreaddit dataset with explainability layer | HuggingFace · SHAP · Streamlit |
-| [RAG PDF Chatbot](https://github.com/aastha-m22/rag-pdf-chatbot) | Retrieval-augmented Q&A over documents with RAGAS evaluation | LangChain · Chroma · FastAPI |
-| [ASD Prediction System](https://github.com/aastha-m22/Autism-Prediction-System) | Clinical ML pipeline for early ASD screening | Scikit-learn · SHAP · Streamlit |
-
----
-
-### Skills
-
-```
-ML / DL       PyTorch · TensorFlow · Scikit-learn · HuggingFace Transformers
-NLP / GenAI   LangChain · LangGraph · RAG · LoRA/QLoRA · RAGAS · Vector DBs
-CV            MediaPipe · OpenCV · YOLO
-MLOps         MLflow · DVC · Docker · FastAPI · GitHub Actions
-Languages     Python · SQL · C++
+```text
+ml / dl      pytorch · tensorflow · scikit-learn · huggingface
+nlp / genai  langchain · langgraph · rag · lora/qlora · vector dbs
+vision       mediapipe · opencv · yolo
+ship it      fastapi · docker · mlflow · github actions
+lang         python · sql · c++
 ```
 
----
+<details>
+<summary><code>&gt; currently</code></summary>
 
-### Currently learning
+<br>
 
-- LLM evaluation frameworks & evals-driven development
-- Distributed training & model serving at scale
-- System design for ML pipelines
+final-year robotics &amp; ai @ thapar. open to remote ml / nlp / genai roles — the kind where the model has to actually work.
 
----
+</details>
+
+<details>
+<summary><code>&gt; off the clock</code></summary>
+
+<br>
+
+</details>
+
+<br>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aastha-m22&show_icons=true&hide_border=true&count_private=true&theme=default" height="130"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aastha-m22&layout=compact&hide_border=true&theme=default" height="130"/>
-</p>
-
----
-
-<p align="center">
-  <i>Always happy to collaborate on ML/AI projects or talk shop — feel free to reach out.</i>
+  <a href="https://www.linkedin.com/in/aastha-mahajan-10a3212a8">linkedin</a> &#183;
+  <a href="https://www.kaggle.com/aasthaa22">kaggle</a> &#183;
+  <a href="https://github.com/aastha-m22">github</a> &#183;
+  <a href="mailto:aasthamahajan2005@gmail.com">email</a>
 </p>
 
