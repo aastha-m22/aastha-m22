@@ -10,29 +10,45 @@ I build with language models. I also write fiction — the one thing they still 
 
 <br>
 
-### stack
+### 🧰 stack
 
-```text
-ml / dl      pytorch · tensorflow · scikit-learn · huggingface
-nlp / genai  langchain · langgraph · rag · lora/qlora · vector dbs
-vision       mediapipe · opencv · yolo
-ship it      fastapi · docker · mlflow · github actions
-lang         python · sql · c++
-```
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn,opencv,fastapi,docker,githubactions,postgres,cpp&theme=dark" alt="stack"/>
+</p>
+
+<p align="center">
+  <sub>+ langchain · langgraph · rag · lora/qlora · huggingface · mediapipe · yolo · mlflow</sub>
+</p>
 
 <details>
-<summary><code>&gt; currently</code></summary>
+<summary>🛠️ <code>&gt; what i build</code></summary>
+
+<br>
+
+- rag + agent systems — retrieval, eval, and the parts that quietly break in prod
+- llm fine-tuning — lora / qlora, for when a clever prompt stops being enough
+- nlp pipelines that explain *why*, not just report an accuracy number
+- computer vision — detection, tracking, real-time inference that runs on the edge
+
+</details>
+
+<details>
+<summary>📍 <code>&gt; currently</code></summary>
 
 <br>
 
 final-year robotics &amp; ai @ thapar. open to remote ml / nlp / genai roles — the kind where the model has to actually work.
 
+nerding out lately on: llm evals, model serving at scale, and making pipelines reproducible enough that future-me doesn't curse past-me.
+
 </details>
 
 <details>
-<summary><code>&gt; off the clock</code></summary>
+<summary>📖 <code>&gt; known limitations</code></summary>
 
 <br>
+
+writing a novel my own language models keep trying to autocomplete. they're wrong about the ending. runs on chai and an unreasonable amount of curiosity.
 
 </details>
 
