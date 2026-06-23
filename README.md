@@ -10,7 +10,7 @@ I build with language models. I also write fiction — the one thing they still 
 
 <br>
 
-### 🧰 stack
+### tech stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn,opencv,fastapi,docker,githubactions,postgres,cpp&theme=dark" alt="stack"/>
@@ -21,7 +21,7 @@ I build with language models. I also write fiction — the one thing they still 
 </p>
 
 <details>
-<summary>🛠️ <code>&gt; what i build</code></summary>
+<summary> <code>&gt; what i build</code></summary>
 
 <br>
 
@@ -33,11 +33,11 @@ I build with language models. I also write fiction — the one thing they still 
 </details>
 
 <details>
-<summary>📍 <code>&gt; currently</code></summary>
+<summary> <code>&gt; currently</code></summary>
 
 <br>
 
-final-year robotics &amp; ai @ thapar. open to remote ml / nlp / genai roles — the kind where the model has to actually work.
+final-year robotics &amp; ai @ thapar. open to ml / nlp / genai roles — the kind where the model has to actually work.
 
 nerding out lately on: llm evals, model serving at scale, and making pipelines reproducible enough that future-me doesn't curse past-me.
 
@@ -47,8 +47,6 @@ nerding out lately on: llm evals, model serving at scale, and making pipelines r
 <summary>📖 <code>&gt; known limitations</code></summary>
 
 <br>
-
-writing a novel my own language models keep trying to autocomplete. they're wrong about the ending. runs on chai and an unreasonable amount of curiosity.
 
 </details>
 
@@ -60,4 +58,3 @@ writing a novel my own language models keep trying to autocomplete. they're wron
   <a href="https://github.com/aastha-m22">github</a> &#183;
   <a href="mailto:aasthamahajan2005@gmail.com">email</a>
 </p>
-
