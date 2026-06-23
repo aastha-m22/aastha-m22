@@ -10,7 +10,7 @@ I build with language models. I also write fiction — the one thing they still 
 
 <br>
 
-### :toolbox: stack
+### tech stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn,opencv,fastapi,docker,githubactions,postgres,cpp&theme=dark" alt="stack"/>
@@ -20,10 +20,8 @@ I build with language models. I also write fiction — the one thing they still 
   <sub>+ langchain · langgraph · rag · lora/qlora · huggingface · mediapipe · yolo · mlflow</sub>
 </p>
 
-<details>
-<summary>:hammer_and_wrench: <code>&gt; what i build</code></summary>
-
-<br>
+<details open>
+<summary>: <b>what i build</b></summary>
 
 - rag + agent systems — retrieval, eval, and the parts that quietly break in prod
 - llm fine-tuning — lora / qlora, for when a clever prompt stops being enough
@@ -32,12 +30,10 @@ I build with language models. I also write fiction — the one thing they still 
 
 </details>
 
-<details>
-<summary>:round_pushpin: <code>&gt; currently</code></summary>
+<details open>
+<summary>: <b>currently</b></summary>
 
-<br>
-
-final-year robotics &amp; ai @ thapar. open to remote ml / nlp / genai roles — the kind where the model has to actually work.
+final-year robotics &amp; ai @ thapar. open to ai / ml / nlp / genai roles — the kind where the model has to actually work.
 
 nerding out lately on: llm evals, model serving at scale, and making pipelines reproducible enough that future-me doesn't curse past-me.
 
